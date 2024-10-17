@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# dotenv environment variables file
+.env
+
+# Build directories
+build/
+dist/
+
+# Coverage directory used by testing tools like Jest
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Next.js specific (if used)
+.next/
+
+# Python (if using a Python backend)
+__pycache__/
+*.py[cod]
+
+# Static files (if any)
+static/
+
+# Temporary files
+*.tmp
+
